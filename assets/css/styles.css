@@ -1,3 +1,5 @@
+/* pag. index */
+
 #header img{
     border-radius: 50px;
  
@@ -9,7 +11,8 @@
     filter: grayscale(50%);
   }
 
-h5, p {
+div #text-carousel {
+    background: rgba(225, 182, 226, 0.4);
     color: black;
 }
 
