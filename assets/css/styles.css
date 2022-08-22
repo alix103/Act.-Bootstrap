@@ -1,0 +1,14 @@
+#header img{
+    border-radius: 50px;
+    margin-left: 25px;
+}
+
+#main .carousel-inner img {
+    max-height: 90vh;
+    /*object-fit: cover;*/
+    filter: grayscale(50%);
+  }
+
+h5, p {
+    color: black;
+}
